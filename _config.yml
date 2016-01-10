@@ -1,0 +1,28 @@
+name: designthinkingplus
+favicon: null
+layout_spectrum: 0.3512116896454245
+typography_spectrum: 0.7076522056013346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8329082427080721
+  lightness: 0.7972970870323479
+  saturation: 0.05735613661818206
+  rhythmicContrast: 0.04234614036977291
+purpose: []
