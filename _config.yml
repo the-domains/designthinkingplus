@@ -1,7 +1,7 @@
 name: designthinkingplus
 favicon: null
-layout_spectrum: 0.3512116896454245
-typography_spectrum: 0.7076522056013346
+layout_spectrum: 0.74579
+typography_spectrum: 0.61481
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#000000'
+    - '#a7a7a7'
+    - '#838383'
+    - '#5f5f5f'
   brandStrength: 0.8329082427080721
   lightness: 0.7972970870323479
   saturation: 0.05735613661818206
